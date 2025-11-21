@@ -1,67 +1,73 @@
-# Hey there! I'm Mohamed Alaa 👋
+<div align="center">
 
-🚀 **Java Developer | Python Programmer | .NET Specialist**
+# 👋 Hey there! I'm Mohamed Alaa
 
----
+### 🚀 **Java Developer** | **Python Programmer** | **.NET Specialist**
 
-## 👨‍💻 About Me
-
-- 🎓 Computer Engineering Student passionate about software engineering
-- ☕ Coffee-powered developer who converts caffeine into clean code
-- 🚀 Currently building Java applications with JavaFX and Python automation
-- 🌳 Always learning new technologies and design patterns
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 **About Me**
 
-- **[asaarmasr.info](https://asaarmasr.info)** - Check out my latest project
+- 🎓 **Computer Engineering Student** passionate about software engineering
+- ☕ **Coffee-powered developer** who converts caffeine into clean code
+- 🚀 **Currently building** Java applications with JavaFX and Python automation
+- 🌱 **Always learning** new technologies and design patterns
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ **Tech Stack**
 
-![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JAVAFX](https://img.shields.io/badge/JAVAFX-8B00ED?style=for-the-badge&logo=java&logoColor=white)
-![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLITE](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
-![Mohamed Alaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saperaa&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=saperaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
 
-- ⭐ **Total Stars Earned:** 0
-- 📈 **Total Commits (last year):** 19
-- 🔀 **Total PRs:** 0
-- 🐛 **Total Issues:** 0
-- 🤝 **Contributed to (last year):** 0
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=saperaa&theme=tokyonight)
 
 ---
 
-## 📈 GitHub Streak
+## 🚀 **Featured Projects**
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=saperaa&theme=dark)
+### 🍽️ **University Cafeteria Management System**
 
----
+**A comprehensive Java-based cafeteria management system featuring:**
+- 🎨 **Modern JavaFX GUI** with intuitive user interface
+- 💎 **Loyalty Points System** with transaction history
+- 📱 **Real-time Order Tracking** with status updates
+- 🏗️ **Advanced OOP Design** following SOLID principles
 
-## 🔗 Connect With Me
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saperaa/University-Cafeteria-System)
 
-- 💼 **GitHub:** [@saperaa](https://github.com/saperaa)
+### 🌐 **asaarmasr.info**
 
----
-
-## 💡 Currently Working On
-
-- Java applications with JavaFX
-- Python automation projects
-- .NET development
+Check out my latest project: **[asaarmasr.info](https://asaarmasr.info)**
 
 ---
 
-*Last updated: 2024*
+## 🤝 **Let's Connect!**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedsapera/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedalaa0911@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saperaa)
+
+---
+
+<div align="center">
+
+### 💡 **Favorite Quote**
+
+> *"Code is like humor. When you have to explain it, it's bad."*  
+> **~ Cory House**
+
+</div>
