@@ -78,17 +78,6 @@ Web companion to the mobile app. Live gold & currency tracker for Egypt with rea
 
 ---
 
-## Experience
-
-**React Native Developer Intern · RockAI Dev** &nbsp;`Mar 2026 — Present`
-
-- Building and improving production React Native apps used by real customers
-- Owning new features end-to-end — from Figma designs to merged TypeScript code
-- Integrating REST and realtime APIs; debugging and tightening performance hotspots
-- Operating inside a fast-moving startup loop — short cycles, tight feedback, ship-first culture
-
----
-
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=saperaa&show_icons=true&theme=transparent&hide_border=true&title_color=d6b27a&icon_color=d6b27a&text_color=c8ccd3&count_private=true" width="420" />
