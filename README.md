@@ -17,7 +17,11 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Alexandria%2C%20EG-d6b27a?style=flat-square" />
+<a href="https://mohamedalaax.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-d6b27a?style=flat-square&logo=vercel&logoColor=black" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Alexandria%2C%20EG-555?style=flat-square" />
 
 </div>
 
