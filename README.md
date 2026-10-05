@@ -6,7 +6,7 @@
 
 **React Native Developer · AI Engineering Student · Alexandria, EG**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFB43A&center=true&vCenter=true&random=false&width=650&lines=Free+agent+%E2%80%94+available+now+for+remote+roles;5+apps+live+on+the+App+Store+%26+Google+Play;React+Native+%C2%B7+Expo+%C2%B7+TypeScript;%D8%A3%D8%B7%D9%88%D8%B1+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D9%84%D8%A7%D8%A1+%E2%80%94+%D9%85%D8%B7%D9%88%D8%B1+%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA+%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFB43A&center=true&vCenter=true&random=false&width=650&lines=Free+agent+%E2%80%94+available+now+for+remote+roles;4+apps+live+on+the+App+Store+%26+Google+Play;React+Native+%C2%B7+Expo+%C2%B7+TypeScript;%D8%A3%D8%B7%D9%88%D8%B1+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D9%84%D8%A7%D8%A1+%E2%80%94+%D9%85%D8%B7%D9%88%D8%B1+%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA+%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/%E2%9A%BD_Portfolio-mohamedaboelela.com-0c231a?style=for-the-badge&labelColor=ffb43a)](https://mohamedaboelela.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedsapera)
@@ -23,7 +23,7 @@
 
 ## The scouting file
 
-> The evaluator is scouting talent, so here is the file. I build and ship **production mobile apps** — not demos, not class projects. Six products built, **five live right now** on the App Store and Google Play, used daily by real people. Currently a **free agent**: RockAI Dev (where I shipped Wakeel) wound down in Sep 2026, and I'm available immediately for remote roles and contracts worldwide.
+> The evaluator is scouting talent, so here is the file. I build and ship **production mobile apps** — not demos, not class projects. Four products built, **all four live right now** on the App Store and Google Play, used daily by real people. Currently a **free agent**: RockAI Dev (where I shipped Wakeel) wound down in Sep 2026, and I'm available immediately for remote roles and contracts worldwide.
 
 - 🥅 **What I do:** one Expo codebase → both stores. Architecture, API layer, UI, push, offline, store review — end to end
 - ⚡ **How I work:** ship a solid v1 in front of users this week, then refine from real usage
